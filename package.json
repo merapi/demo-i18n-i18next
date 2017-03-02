@@ -4,11 +4,15 @@
   "private": true,
   "dependencies": {
     "i18next": "^7.1.1",
+    "i18next-browser-languagedetector": "^1.0.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-i18next": "^2.2.0"
   },
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "i18next-parser": "^0.11.1",
+    "i18next-scanner": "^1.5.1",
     "react-scripts": "0.9.3"
   },
   "scripts": {
